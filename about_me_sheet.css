@@ -13,9 +13,14 @@ body  {
 
 #float-right {
   float: right;
-  margin-right: 600px;
+  margin-right: 400px;
 }
 
 #float-left {
   float: left;
+}
+
+#par {
+  margin-right: 400px;
+  font-size: 14px;
 }
