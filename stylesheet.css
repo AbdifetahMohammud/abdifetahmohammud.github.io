@@ -1,6 +1,12 @@
-
-           body {
-  background-color: rgb(201, 76, 76);
+body {
+           background-color: rgb(201, 76, 76);
 }
-#nav-table { width: 800px;}
-#nav-td {width: 200px; text-align:center;}
+
+#nav-table { 
+           width: 800px;
+}
+
+#nav-td {
+           width: 200px; 
+           text-align:center;
+}
