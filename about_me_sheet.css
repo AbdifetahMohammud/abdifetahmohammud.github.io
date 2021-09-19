@@ -21,6 +21,6 @@ body  {
 }
 
 #par {
-  margin-right: 400px;
-  font-size: 14px;
+  width: 50%;
+  font-size: 22px;
 }
