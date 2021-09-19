@@ -10,3 +10,7 @@ body  {
            width: 200px; 
            text-align:center;
 }
+
+#float {
+  float: right
+}
