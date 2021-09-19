@@ -11,6 +11,10 @@ body  {
   text-align:center;
 }
 
-#float {
+#float-right {
   float: right;
+}
+
+#float-left {
+  float: left;
 }
